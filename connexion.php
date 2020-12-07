@@ -5,7 +5,7 @@
             // define("server", "localhost");
             // define("db_name", "notes");
             // define("user", "root");
-            // define("password", "root");
+            // define("password", "");
 
             //remote database connexion
             define("server", "remotemysql.com");
